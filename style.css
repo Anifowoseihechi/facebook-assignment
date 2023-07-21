@@ -1,0 +1,82 @@
+.pic img{
+     border-radius: 240em;
+     height: auto;
+     width: 5em;}
+     .oga{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #596EE1;
+        width: 900px;
+        height: 600px;
+     }
+     .un{
+        background-color: #4169E1;
+        display: flex;
+        flex-direction: column;
+        margin-right: 0em;
+        width: 400px;
+        height: 450px;
+        color: white;
+        font-family: sans-serif;
+        padding: 0em;
+        align-items: center;
+    
+     }
+     .h1{
+         font-family: sans-serif;
+         font-weight: bold;
+     }
+     .continue{
+         border-radius: 30em;
+         background-color:transparent;
+         font-family: sans-serif;
+         color: white;
+         border: 1px solid #ffffff; width: 15em; height: 3em;
+    
+     }
+     .deux{
+        display: flex;
+        flex-direction: column;
+        margin-left: -100px;
+        background-color:white;
+        width: 450px;
+        height: 430px;
+        color: #2B60DE;
+        font-family:sans-serif;
+        font-weight: bold;
+        padding-top: 20px;
+        align-items: center;
+
+     }
+     .email{
+         text-align: center;
+         border-top: none;
+         border-right: none;
+         border-left: none;
+         border: em; width: 20em;
+
+     }
+     .password{
+         text-align: center;
+         border-top: none;
+         border-right: none;
+         border-left: none;
+         border: em; width: 20em;
+     }
+     .Login{
+         border-radius: 30em;
+        background-color:blue;
+        font-family: sans-serif;
+        color: white;
+        font-weight: bold;
+        border: 1em; width: 20em; height: 3em;
+     }
+     .create{
+        border-radius: 30em;
+        background-color:transparent;
+        font-family: sans-serif;
+        color: blue;
+
+        border: 1px solid #2B60DE; width: 20em; height: 3em;
+     }
