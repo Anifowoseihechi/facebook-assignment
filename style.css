@@ -1,12 +1,20 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+body{
+    background-color: #2B60DE;
+}
+
 .pic img{
      border-radius: 240em;
      height: auto;
      width: 5em;}
+
      .oga{
         display: flex;
         justify-content: space-around;
         align-items: center;
-        background-color: #596EE1;
         width: 900px;
         height: 600px;
      }
@@ -40,7 +48,7 @@
         flex-direction: column;
         margin-left: -100px;
         background-color:white;
-        width: 450px;
+        width: 300px;
         height: 430px;
         color: #2B60DE;
         font-family:sans-serif;
@@ -55,6 +63,7 @@
          border-right: none;
          border-left: none;
          border: em; width: 20em;
+         outline: none;
 
      }
      .password{
@@ -63,6 +72,7 @@
          border-right: none;
          border-left: none;
          border: em; width: 20em;
+         outline: none;
      }
      .Login{
          border-radius: 30em;
